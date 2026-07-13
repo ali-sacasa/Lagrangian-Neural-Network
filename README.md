@@ -91,7 +91,6 @@ NeurIPS, 2019.
 
 ### Archivo `LICENSE` (MIT)
 
-Crea también un archivo `LICENSE` en la raíz con este contenido:
 MIT License
 
 Copyright (c) 2026 Juan Manuel Bonilla Arce, Sebastián Alí Sacasa Céspedes
